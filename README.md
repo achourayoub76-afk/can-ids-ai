@@ -1,6 +1,6 @@
 # can-ids-ai — Détection d'anomalies sur le bus CAN par IA
 
-![CI](https://github.com/<votre-compte>/can-ids-ai/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/<chourayoub76-afk>/can-ids-ai/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -30,7 +30,7 @@ flowchart LR
 ## Installation
 
 ```bash
-git clone https://github.com/<votre-compte>/can-ids-ai.git
+git clone https://github.com/<achourayoub76-afk>/can-ids-ai.git
 cd can-ids-ai
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
